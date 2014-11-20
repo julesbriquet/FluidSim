@@ -32,3 +32,6 @@ FluidSim/Debug/
 *.sdf
 *.sln
 *.vcxproj
+*.suo
+*.opensdf
+*.filters
